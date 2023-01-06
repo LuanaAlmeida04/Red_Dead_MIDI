@@ -10,5 +10,5 @@ Durante o curso, foi usado 100% Javascript emcima de HTML e CSS. Com o objetivo 
 
 
 ## CONCLUSÃO
-O projeto foi intensamente gratificante de ter sido feito, principalmente pela professora Vanessa Me Tonini que tem uma incrível didática para lessionar no tema que foi apresentado e proposto, tendo uma progressão para a narrativa das videoaulas de forma ipecável.
+O projeto foi intensamente gratificante de ter sido feito, principalmente pela professora Vanessa Me Tonini que tem uma incrível didática para lecionar no tema que foi apresentado e proposto, tendo uma progressão para a narrativa das videoaulas de forma ipecável.
 **link do certificado:https://cursos.alura.com.br/certificate/d1026ec2-3218-4758-9c26-f62a01d874c8**
