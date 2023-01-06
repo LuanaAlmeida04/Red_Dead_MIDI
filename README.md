@@ -1,4 +1,4 @@
-# Red_Dead_MIDI
+# RED DEAD REDEMPTION MIDI
 Um MIDI de player de musicas impactantes do jogo Red Dead Remption 2
 
 Projeto feito em conjunto com o curso de JavaScript para Web: Crie páginas dinâmicas da Alura. Sendo alterado para manter o objetivo principal do curso com uma proposta semelhante.
